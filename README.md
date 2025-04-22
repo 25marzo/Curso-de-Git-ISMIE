@@ -1,6 +1,7 @@
 # Curso de Git
 
 Este curso es un tutorial de Git, destinado a un curso del ISMIE para profesores de la Comunidad de Madrid.
+Fechas: desde 25 de Marzo hasta Junio 2025
 
 ## Contenido:
 
